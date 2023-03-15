@@ -1,0 +1,4 @@
+Dunlop,iarna,205,55,r16,2,1000
+Dunlop,vara,205,55,r17,3,100
+Michelin,iarna,205,55,r16,6,700
+continental,vara,225,35,R18,100,2356
